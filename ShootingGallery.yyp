@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "03520a52-760c-44eb-9226-21a771703318",
+            "Value": {
+                "id": "8465c859-d971-401c-9fac-6a27c4c29ba3",
+                "resourcePath": "objects\\object_duck_target\\object_duck_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0460ef94-cca8-4ead-9835-0e7f24056080",
             "Value": {
                 "id": "61f84a57-5ef8-4599-9662-1a79e0acc189",
